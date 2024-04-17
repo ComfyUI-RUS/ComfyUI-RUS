@@ -3,7 +3,7 @@
 
 <a href="https://github.com/ComfyUI-RUS/ComfyUI-RUS">**>>> Здесь <<<**</a>
 
-**"ComfyUI RUS portable"** портабельная версия, не требующая установленного **Python** и **Git**
+Портабельная версия, не требующая установленного **Python** и **Git**
 
 <a href="https://github.com/ComfyUI-RUS/ComfyUI-RUS-portable">**>>> Здесь <<<**</a>
 
