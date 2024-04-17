@@ -1,5 +1,5 @@
 # "ComfyUI RUS"
-Версия для тех, у кого в системе уже установлены **Python** и **Git**
+Здесь версия для тех, у кого в системе уже установлены **Python** и **Git**
 
 <a href="https://github.com/ComfyUI-RUS/ComfyUI-RUS">**>>> Здесь <<<**</a>
 
