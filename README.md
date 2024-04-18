@@ -26,6 +26,10 @@
 >на реальное расположение питона в вашей системе!!!
 >
 >**Git** должен быть установлен в системе и быть в **PATH**!
+>
+>Git можно скачать тут: https://git-scm.com/download/win
+>
+>Python можно скачать тут: https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
 
 ---
 
