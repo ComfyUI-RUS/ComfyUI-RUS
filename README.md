@@ -21,7 +21,7 @@
 
 >Перед началом установки измените в 5 строке файла **install.bat** значение переменной:
 >
->- **set python=c:\p31\python.exe**   
+>- **set python=c:\p311\python.exe**   
 >
 >на реальное расположение питона в вашей системе!!!
 >
@@ -29,7 +29,7 @@
 >
 >Git можно скачать тут: https://git-scm.com/download/win
 >
->Python можно скачать тут: https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+>Python 3.11 можно скачать тут: https://www.python.org/ftp/python/3.11.8/python-3.11.8-amd64.exe
 
 ---
 
