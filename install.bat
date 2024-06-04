@@ -1,8 +1,8 @@
 @echo off
 cls
 echo Make sure that GIT is in the PATH
-echo Change "python=c:\p31\python.exe" to the actual location of python 3.10 (3.11)in the system.
-set python=c:\p31\python.exe
+echo Change "python=c:\p311\python.exe" to the actual location of python 3.11 in the system.
+set python=c:\p311\python.exe
 set startDir=%CD%
 set comfy=%startDir%\ComfyUI
 set venv=%comfy%\venv
@@ -57,7 +57,7 @@ echo Uninstalling CPU python packages
 %scripts%\python -m pip uninstall torch torchvision -y
 echo ======================================
 echo Installing GPU-cuda TORCH python packages
-%scripts%\python -m pip install torch==2.1.2 torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu121
+%scripts%\python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 echo ======================================
 echo Installing sucessful
 echo ======================================
