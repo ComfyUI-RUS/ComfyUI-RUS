@@ -30,6 +30,9 @@ echo ======================================
 git clone https://github.com/melMass/comfy_mtb.git
 cd %startDir%
 echo ======================================
+echo Downloading "comfyui-profiler"
+git clone https://github.com/tzwm/comfyui-profiler.git
+echo ======================================
 echo Installing VENV for ComfyUI
 echo ======================================
 %python% -m venv %venv%
